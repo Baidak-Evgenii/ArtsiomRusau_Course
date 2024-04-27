@@ -4,4 +4,4 @@
 
 ### 📜Сертификат:
 
-🔗[QA инженер](https://v2.coreapp.ai/certificate/pdf/64fdba00140da14a5cbd297c)
+🔗[QA инженер](https://drive.google.com/file/d/1GT6ZVO23wK-R-VYY2YL7_0r7U1CtKOEc/view?usp=drive_link)
