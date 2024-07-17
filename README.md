@@ -16,4 +16,6 @@
 
 4. 🔗 [REST и SOAP API тестирование в Postman](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/api_testing.md)
 
-5. 🐬 [MySQL]()
+5. 🐬 [MySQL](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/sql.md)
+
+6. 📌 [bash](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/bash.md) 
