@@ -19,3 +19,5 @@
 5. 🐬 [MySQL](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/sql.md)
 
 6. 📌 [bash](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/bash.md) 
+
+7. 📌 [git](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/git.md)
