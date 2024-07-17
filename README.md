@@ -8,8 +8,8 @@
 
 ### Практика:
 
-1.  🛒 [Тестирование интернет-магазина](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/web_testing.md)
+1. 🛒 [Тестирование интернет-магазина](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/web_testing.md)
 
-2. # 📱 [Мобильное тестирование](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/mobile_testing.md)
+2. 📱 [Мобильное тестирование](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/mobile_testing.md)
 
-3. # 🍶 [Charles Proxy]() 
+3. 🍶 [Charles Proxy](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/charlesproxy.md) 
