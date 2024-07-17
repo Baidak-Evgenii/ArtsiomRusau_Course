@@ -14,10 +14,10 @@ Git — это система контроля версий, доступная 
 ##### Creating, cloning, pushing and pulling repositories  
 ```git
 git init osukhorukova                                       # Создайте репозиторий с тем же именем, что и ваше имя пользователя.
-git clone git@github.com:osukhorukova/osukhorukova.git      # Клонируйте репозиторий на своем компьютере в отдельную папку.
+git clone git@github.com:Baidak-Evgenii/Baidak-Evgenii.git  # Клонируйте репозиторий на своем компьютере в отдельную папку.
 git clone git@github.com:testrusau/testrusau.git            # Клонируйте github.com/testrusau/testrusau на своем компьютере в отдельную папку.
 cd testrusau                                                # Перенесите данные из репозитория testrusau в свой собственный.
-git push git@github.com:osukhorukova/testrusau.git main:main
+git push git@github.com:Baidak-Evgenii/Baidak-Evgenii.git main:main
 git commit -m "commited change description"                 # Откройте файл README.md и замените каждый блок отдельным коммитом.
 git push 
 
@@ -26,10 +26,10 @@ git push
 
 ##### Creating, adding remote repositories  
 ```git
-git init sql                                                # Создайте отдельный репозиторий для элемента портфолио.
-git remote add sql https://github.com/osukhorukova/sql.git  # Объявить репозиторий удаленно.
-README.md edited manually                                   # Добавьте ссылки на ваши репозитории в файл README.md
-git commit -m "commited change description"                 # Отправить изменения в удаленный репозиторий
+git init sql                                                  # Создайте отдельный репозиторий для элемента портфолио.
+git remote add sql https://github.com/Baidak-Evgenii/sql.git  # Объявить репозиторий удаленно.
+README.md edited manually                                     # Добавьте ссылки на ваши репозитории в файл README.md
+git commit -m "commited change description"                   # Отправить изменения в удаленный репозиторий
 git push                                                     
 
 
