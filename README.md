@@ -12,4 +12,8 @@
 
 2. 📱 [Мобильное тестирование](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/mobile_testing.md)
 
-3. 🍶 [Charles Proxy](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/charlesproxy.md) 
+3. 🍶 [Charles Proxy](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/charlesproxy.md)
+
+4. 🔗 [REST и SOAP API тестирование в Postman](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course/blob/master/api_testing.md)
+
+5. 🐬 [MySQL]()
