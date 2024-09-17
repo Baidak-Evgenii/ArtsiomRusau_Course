@@ -2,7 +2,7 @@
 
 1) Я протестировал все методы, предусмотренные для https://petstore.swagger.io/ в Postman и создал соответствующие коллекции.:
  <ul>
-<li>  <a href="https://www.postman.com/restless-flare-373008/workspace/my-workspace/request/24530753-960e05d4-e0bc-4b5f-8ff5-bdbf90b6a4a0"> Postamn коллекция для зоомагазина: REST </a>  </li>
+<li>  <a href="https://www.postman.com/restless-flare-373008/workspace/my-workspace/collection/24530753-c7f3e8a0-3f35-465e-9dc3-2df2349e7865?action=share&creator=24530753"> Postamn коллекция для зоомагазина: REST </a>  </li>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1CEuB9QyrD4fQRq4-l2b6O66Chm0DGuoDUOwjAjnaaYM/edit?gid=0#gid=0"> Тест-кейсы для блока «магазин» </a>   </li>
 </ul>
 
